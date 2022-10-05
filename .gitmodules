@@ -12,3 +12,8 @@
 	path = airsrl/huroos_warehouse
 	url = git@github.com:airsrl/huroos_warehouse.git
 	branch = 14.0
+
+[submodule "airsrl/accounting_tools"]
+	path = airsrl/accounting_tools
+	url = git@github.com:airsrl/accounting_tools.git
+	branch = 14.0
